@@ -1,0 +1,9 @@
+numpy
+matplotlib
+spacy
+torch==0.4.0
+torchtext
+seaborn
+pandas
+scipy
+
